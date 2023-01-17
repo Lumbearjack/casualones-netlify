@@ -1,6 +1,6 @@
 <template>
   <main :class="[$route.name]" class="main">
-    <div class="container mx-auto">
+    <div class="xl:container mx-auto">
       <site-header />
       <nuxt class="nuxt" />
     </div>
