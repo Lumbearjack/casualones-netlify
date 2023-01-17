@@ -1,6 +1,6 @@
 <template>
   <header class="flex items-center p-4 md:py-8">
-    <div class="header__logo h-20 flex">
+    <div class="header__logo h-20">
       <nuxt-link to="/">
         <img :src="logo" class="h-full" alt="Logo" />
       </nuxt-link>
