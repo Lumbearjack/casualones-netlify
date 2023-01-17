@@ -1,10 +1,11 @@
 {
-  "title": "Casual Ones",
-  "titleTemplate": "| Bluise",
-  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
-  "logo": "/images/uploads/thecasualones-medium.png",
-  "icon": "/images/uploads/thecasualones-nat-one-x56.png",
+  "heroImage": "/images/uploads/games-background.png",
   "loadingColor": "#0b3765",
-  "seoDescription": "A quickstart for Nuxt & Netlify CMS",
-  "seoMetaImage": ""
+  "logo": "/images/uploads/thecasualones-medium.png",
+  "welcomeText": "# Yo, I'm Bluise - A Nuxt.js & Netlify CMS boilerplate.\n\nAuthentic cred hoodie hashtag selfies. Raclette banjo cardigan cred. Kitsch XOXO lomo polaroid. Knausgaard put a bird on it four dollar toast leggings typewriter asymmetrical.\n\n\n\n\n\nHIIIIIIIIIIIIIIIIIIIIIIIIIIII",
+  "titleTemplate": "| Bluise",
+  "title": "Casual Ones",
+  "icon": "/images/uploads/thecasualones-nat-one-x56.png",
+  "seoMetaImage": "",
+  "seoDescription": "A quickstart for Nuxt & Netlify CMS"
 }
