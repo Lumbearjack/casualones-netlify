@@ -1,6 +1,6 @@
 <template>
   <footer class="footer -mx-4 md:mx-0">
-    <div class="xl:container mx-auto pb-6 flex justify-center">
+    <div class="max-w-7xl mx-auto pb-6 flex justify-center">
     </div>
   </footer>
 </template>

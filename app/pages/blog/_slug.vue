@@ -1,6 +1,6 @@
 <template>
-  <article class="post" :class="post.slug">
-    <div class="py-8 md:py-16 text-center mx-auto">
+  <article class="post px-4" :class="post.slug">
+    <div class="py-8 md:py-16 text-center mx-auto max-w-prose">
       <h1 class="text-lg md:text-xl lg:text-4xl xl:text-6xl">
         {{ post.title }}
       </h1>
