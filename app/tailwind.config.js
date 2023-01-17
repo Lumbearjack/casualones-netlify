@@ -8,4 +8,7 @@ module.exports = {
   theme: {},
   variants: {},
   plugins: [],
+  screens: {
+    'xl': '1200px',
+  }
 };
