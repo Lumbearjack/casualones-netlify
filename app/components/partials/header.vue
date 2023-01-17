@@ -17,7 +17,7 @@
         <li
           v-for="(page, index) in pages"
           :key="index"
-          class="block font-medium px-4 py-1 md:p-2 lg:px-4"
+          class="block font-medium px-4 py-1 md:p-2 lg:px-4 last:pr-0"
         >
           <nuxt-link :to="`/${page.slug}`">{{ page.title }}</nuxt-link>
         </li>
